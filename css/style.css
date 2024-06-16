@@ -91,9 +91,6 @@ body {
   margin-bottom: 9.6rem;
 }
 
-.heading-tertiary {
-}
-
 .subheading {
   display: block;
   font-size: 1.6rem;
@@ -349,7 +346,7 @@ body {
 }
 
 /**********************/
-/* Meals section */
+/* Meals section  */
 /********************* */
 .section-meals {
   padding: 9.6rem 0;
